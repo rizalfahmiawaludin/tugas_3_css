@@ -1,0 +1,15 @@
+p.satu{font-size: 12px;
+  background-color: orange;
+}
+p.dua{font-size: 12px;
+  color: white;
+  background-color: blue;
+}
+p.tiga{ border-style: solid;
+  border-color: grey;
+  font-family: monospace;
+  font-size: 14px;
+}
+p.empat{ font-weight: bold;
+  background-color: grey;
+}
